@@ -1,0 +1,15 @@
+# Embedded C build outputs
+build/
+dist/
+release/
+*.o
+*.obj
+*.elf
+*.map
+*.bin
+*.img
+*.exe
+
+# Python artifacts
+__pycache__/
+*.pyc
